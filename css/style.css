@@ -23,6 +23,12 @@ h2 {
     padding: 5px;
 }
 
+.myh2 {
+    font-size: 15px;
+    padding: 10px;
+    font-style: helvetica;
+}
+
 .container {
     width: 1024px;
     margin: 0 auto;
@@ -50,6 +56,6 @@ a {
 }
 
 #bio-image {
-    margin: 5;
+    margin: 20px;
     max-width: 200px;
 }
